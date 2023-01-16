@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkthe9art"]=self["webpackChunkthe9art"]||[]).push([[664],{1664:function(t,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=function(){var t=this,n=t._self._c;return n("div",[t._v(" 热门 ")])},r=[],l={},s=l,a=u(3736),c=(0,a.Z)(s,e,r,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=664.b9fddb2a.js.map
